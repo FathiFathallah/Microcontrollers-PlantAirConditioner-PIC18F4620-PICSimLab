@@ -10,7 +10,7 @@
     * Cooler works with Pulse width modulation module (Timer 2).
     * Heater works with programmed PWM (FAKE PWM) using Timer 3 with 400ms period in total.
     More details in the PDF File or in the youtube video below:
-    [VIDEO: ](https://youtu.be/2XWClmMTy2I)
+    [VIDEO](https://youtu.be/2XWClmMTy2I)
 </pre>
 ![](PIC.png)
 
